@@ -40,8 +40,8 @@ body {
 .form {
   padding-top: 1px;
   background-color: #272727;
-  width: 40%;
-  height: 50%;
+  width: 40em;
+  height: 50em;
   margin-left: 350px;
   margin-top: 100px;
   color: grey;
@@ -51,8 +51,8 @@ body {
 
 .container {
   background: white;
-  width: 50%;
-  margin-left: 325px;
+  width: 50em;
+  margin-left: 225px;
   /* border: solid grey; */
   /* border-radius: 1%; */
   /* color: black; */
